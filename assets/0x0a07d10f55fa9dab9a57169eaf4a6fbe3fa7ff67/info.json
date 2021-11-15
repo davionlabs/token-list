@@ -1,0 +1,11 @@
+{
+    "name": "BaseToken",
+    "type": "ERC20",
+    "symbol": "BT",
+    "decimals": 18,
+    "website": "https://www.tbcc.com/footer/token",
+    "description": "BT 666 ",
+    "explorer": "https://bscscan.com/token/0x0a07d10f55fa9dab9a57169eaf4a6fbe3fa7ff67",
+    "status": "abandoned",
+    "id": "0x0a07d10f55fa9dab9a57169eaf4a6fbe3fa7ff67"
+}
